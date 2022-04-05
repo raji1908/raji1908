@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raji1908
+- 👋 Hi, I’m Raji Reddy
 - 👀 I’m interested in Front End Development
 - 🌱 I’m currently learning React and am a Skilled Angular Developer
 - 💞️ I’m looking to collaborate on Web Development
