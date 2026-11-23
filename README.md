@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raji Reddy
-- 👀 I’m interested in Front End Development
+- 👀 I’m interested in Web application Development
 - 🌱 I’m a Skilled Full stack .Net Developer
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me at komirajireddy@gmail.com
