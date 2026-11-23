@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raji Reddy
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning React and am a Skilled Angular Developer
+- 🌱 I’m a Skilled Full stack .Net Developer
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me at komirajireddy@gmail.com
 
